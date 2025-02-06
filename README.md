@@ -25,3 +25,6 @@ Este repositorio contiene implementaciones de diversos modelos de Machine Learni
 | 🔹 Redes Neuronales convolucionales (CNN)
 
 | 🔹 Redes Neuronales recurrentes (RNN)
+
+## 📜 Licencia
+Este proyecto está bajo la licencia MIT. ¡Siéntete libre de contribuir! 😃
