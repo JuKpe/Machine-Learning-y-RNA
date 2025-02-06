@@ -9,11 +9,19 @@ Este repositorio contiene implementaciones de diversos modelos de Machine Learni
 | 🔹 Regresión Lineal 
 
 | 🔹 Árbol de Decisión 
+
 | 🔹 Random Forest 
+
 | 🔹 k-Nearest Neighbors
+
 | 🔹 Support Vector Machine (SVM)
+
 | 🔹 Clustering
+
 | 🔹 K-means
+
 | 🔹 Redes Neuronales de propagación hacia adelante (FNN)
+
 | 🔹 Redes Neuronales convolucionales (CNN)
+
 | 🔹 Redes Neuronales recurrentes (RNN)
