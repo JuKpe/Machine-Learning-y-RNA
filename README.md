@@ -4,9 +4,10 @@ Este repositorio contiene implementaciones de diversos modelos de Machine Learni
 
 ## 📊 Modelos Implementados
 
-|-------------------------------------------------------|
 | 🔹 Análisis exploratorio de datos 
+
 | 🔹 Regresión Lineal 
+
 | 🔹 Árbol de Decisión 
 | 🔹 Random Forest 
 | 🔹 k-Nearest Neighbors
